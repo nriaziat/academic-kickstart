@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "LABVIEW"
+  name = "LabVIEW"
   description = ""  
   
 [[feature]]
