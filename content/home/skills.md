@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "wave-square"
+  icon_pack = "fas"
+  name = "MATLAB"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "LABVIEW"
+  description = ""  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "ROS"
+  description = ""  
+
+[[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "SolidWorks"
+  description = ""  
+
+[[feature]]
+  icon = "drafting-compass"
+  icon_pack = "fas"
+  name = "CATIA"
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = ""
 
 +++
