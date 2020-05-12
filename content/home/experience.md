@@ -33,7 +33,16 @@ date_format = "Jan 2006"
   location = "Indiana"
   date_start = "2018-01-01"
   date_end = "2020-05-18"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Developed novel ground and aerial robot navigation techniques for scanning and inspection. """
+  
+[[experience]]
+  title = "Manufacturing Engineering Intern"
+  company = "Rolls-Royce High Temperature Composites"
+  company_url = ""
+  location = "California"
+  date_start = "2018-05-01"
+  date_end = "2018-08-18"
+  description = """Optimized manufacturing processes for SiC-SiC ceramic matrix composites in 3 and 5-axis CNC machines. """
 
   
 +++
