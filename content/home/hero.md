@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Naveed Riaziat"
+title = "Welcome"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "headshot1web.jpg"
@@ -24,9 +24,9 @@ hero_media = "headshot1web.jpg"
   # gradient_end = "#000"
 
   # Background image.
-  # image = ""  
+  #image = "sf_rocks.jpg"  
   # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false

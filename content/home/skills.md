@@ -18,36 +18,36 @@ subtitle = ""
   icon = "wave-square"
   icon_pack = "fas"
   name = "MATLAB"
-  description = ""
+  description = "I am proficient in using MATLAB for iterative gear and crankshaft design as well as matrix operations, differential equations, and statistics."
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "LabVIEW"
-  description = ""  
+  description = "I have used LabVIEW extensively for control system implementation with the NI myRIO"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "ROS"
-  description = ""  
+  description = "I have used ROS for drone and autonomous ground vehicle programming using a wide variety of sensors and computing systems."  
 
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "SolidWorks"
-  description = ""  
+  description = "I have 8 years of SolidWorks experience in robotics and manufacturing applications."  
 
 [[feature]]
   icon = "drafting-compass"
   icon_pack = "fas"
   name = "CATIA"
-  description = ""  
+  description = "I have 4 years of CATIA experience, including surface modeling and CAM."  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = ""
+  description = "I have been a frelance photographer for 9 years. I learned to shoot on a Canon AE-1 and shot with various Canon DSLRs for my high school yearbook. Now, I shoot mostly portraiture with my Sony A7."
 
 +++
