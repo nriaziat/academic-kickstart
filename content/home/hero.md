@@ -36,7 +36,7 @@ hero_media = "headshot1web.jpg"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
-  url = "/static/file/resume.pdf"
+  url = "/static/files/resume.pdf"
   label = "Resume"
   icon_pack = "fas"
   icon = "download"

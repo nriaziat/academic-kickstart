@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Connect with me on LinkedIn"
-  content = "Check out my career and job updates"
+  content = "Check out my career and job updates."
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -53,7 +53,7 @@ height = ""
 
 [[item]]
   title = "HAMR Lab"
-  content = "I do research at the Haptics and Medical Robotics lab"
+  content = "I am a Ph.D student at the Haptics and Medical Robotics lab."
   align = "right"
 
   #overlay_color = "#333"  # An HTML color value.
@@ -70,7 +70,7 @@ height = ""
   
 [[item]]
   title = "Follow me on Twitter"
-  content = "I post about my projects and research."
+  content = "I post about my projects, research, and hobbies."
   align = "center"
 
   #overlay_color = "#333"  # An HTML color value.
@@ -81,7 +81,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Twitter"
-  cta_url = "https://www.twitter.com/naveedriaziat"
+  cta_url = "https://www.twitter.com/NaveedRiaziat"
   cta_icon_pack = "fab"
   cta_icon = "twitter"
 +++
