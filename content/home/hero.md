@@ -20,8 +20,8 @@ hero_media = "headshot1web.jpg"
   color = "#fff"
 
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#000"
+  # gradient_start = "#fff"
+  # gradient_end = "rgb(240, 250, 255)"
 
   # Background image.
   #image = "sf_rocks.jpg"  
