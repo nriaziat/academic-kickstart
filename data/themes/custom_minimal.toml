@@ -5,14 +5,14 @@ name = "custom minimal"
 light = true
 
 # Primary
-primary = "#687864"
+primary = "#3f924b"
 
 # Menu
-menu_primary = "#F7F9FB"
-menu_text = "#687864"
-menu_text_active = "#2274A5"
-menu_title = "#687864"
+menu_primary = "#EBEBE5"
+menu_text = "#3f924b"
+menu_text_active = "#7A8865"
+menu_title = "#7A8865"
 
 # Home sections
-home_section_odd = "2274A5"
-home_section_even = "#F7F9FB"
+home_section_odd = "#FFFFFF"
+home_section_even = "#EBEBE5"
