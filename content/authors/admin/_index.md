@@ -12,7 +12,7 @@ role: Mechanical Engineering Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins University
-  url: "hamr.lcsr.jhu.edu"
+  url: "https://hamr.lcsr.jhu.edu"
   
 bio: My research interests include medical robotics, haptics, and prosthetics.
 
