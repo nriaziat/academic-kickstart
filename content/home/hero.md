@@ -46,5 +46,5 @@ hero_media = "headshot1web.jpg"
   label = "Contact Me"
 
 +++
-## My name is **Naveed Riaziat** and I'm a **Ph.D. Student** specializing in **Medical Robotics, Haptics, and Drinking Coffee**
+## My name is **Naveed Riaziat** and I'm a **Ph.D. Student** specializing in **Medical Robotics, Haptics,** and **Studying Home Espresso-Brewing.**
 

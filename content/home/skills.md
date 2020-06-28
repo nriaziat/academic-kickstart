@@ -18,24 +18,23 @@ subtitle = ""
   icon = "wave-square"
   icon_pack = "fas"
   name = "MATLAB"
-  description = "I am proficient in using MATLAB for iterative gear and crankshaft design as well as matrix operations, differential equations, and statistics."
+  description = "I am proficient in using MATLAB for iterative mechanical design as well as matrix operations, differential equations, and statistics. My background includes projects in crankshaft design, signal analysis (frequency and time domain), and data presentation."
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "LabVIEW"
-  description = "I have used LabVIEW extensively for control system implementation with the NI myRIO"  
+  description = "I have used LabVIEW extensively for control system implementation with the NI myRIO. Check out my [inverted pendulum](https://www.linkedin.com/posts/nriaziat_naveed-riaziat-and-i-had-a-lot-of-fun-with-activity-6609596143108190209-krLo) using a state-space LQR controller running on a myRIO!"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "ROS"
-  description = "I have used ROS for drone and autonomous ground vehicle programming using a wide variety of sensors and computing systems."  
+  description = "I have used ROS for drone and autonomous ground vehicle programming using a variety of sensors and computing systems."  
 
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "SolidWorks"
   description = "I have 8 years of SolidWorks experience in robotics and manufacturing applications."  
 
 [[feature]]

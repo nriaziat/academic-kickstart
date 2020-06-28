@@ -26,11 +26,11 @@ education:
   - course: BS in Mechanical Engineering
     institution: Purdue University
     year: 2020
-email: "nriazia1@jhu.edu"
+email: "nriazia1@jhedu"
 interests:
 - Medical Robotics
 - Haptics
-- Healthcare
+- Human Perception and Learning
 name: Naveed Riaziat
 
 social:
@@ -55,4 +55,9 @@ user_groups:
 - Visitors
 ---
 
-Naveed Riaziat is a student of Mechanical Engineering at the Johns Hopkins HAMR Lab. His research interests include minimally invasive surgery, ungrounded haptics, and medicine. In his free time, Naveed is an avid photographer, longboarder, and basketball player.
+I am Naveed Riaziat, a Mechanical Engineering Ph.D. student at the Johns Hopkins University HAMR Lab. My research interests include robotic minimally invasive surgery, haptics, and all things medicine. In my (sparse) free time, I dabble in landscape and portrait photography, playing basketball, and pretending to know a lot about espresso. 
+
+Before coming to Baltimore, I grew up in the SF bay area. I was an avid roboticist in high school and continued to study robotics and controls at Purdue University in Indiana. After a summer internship with Intuitive Surgical, a long time dream of mine, I was inspired to pursue my Ph.D. and continue exploring the forefront of robotics and medicine. 
+
+I am always excited to talk to anyone interested about my work or my hobbies so don't hesitate to contact me here or on LinkedIn!
+
